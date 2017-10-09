@@ -78,7 +78,7 @@ CORS_ORIGIN_WHITELIST = (
     'google.com',
     'hostname.example.com',
     'localhost:8000',
-    '127.0.0.1:9000'
+    'localhost:4200'
 )
 
 # REST FRAMEWORK
